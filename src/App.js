@@ -5,7 +5,7 @@ import Dashboard from './components/Dashboard';
 import Login from './components/Login';
 import Navbar from './components/Navbar';
 import Signup from './components/Signup';
-import NameDetails from "./NameDetails";
+import NameDetails from "./components/NameDetails";
 //import Context from './context';
 import SingleCocktail from './pages/SingleMention';
 
