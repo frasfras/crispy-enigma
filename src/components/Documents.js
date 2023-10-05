@@ -2,7 +2,7 @@ import React, { useState,useEffect } from 'react';
 
 import axios from 'axios';
 import Skills from './Skills';
-import './App.css';
+//import './App.css';
 // import './index.css';
 
 
